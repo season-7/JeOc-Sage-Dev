@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+
+=======
 /* http://meyerweb.com/eric/tools/css/reset/ 2. v2.0 | 20110126
   License: none (public domain)
 */
@@ -252,4 +255,74 @@ img{
 
 .own{
     padding: 10px;
+}
+
+/*
+  ========================================
+  lastsec
+  ========================================
+*/
+
+/*
+  ========================================
+  Footer
+  ========================================
+*/
+.footer
+.small{
+    float: left;
+    padding-left: 200px;
+}
+.tp{
+    float: right;
+    color: black;
+    font-size: 8px;
+    border: solid #777 0;
+}
+
+.fea {
+    background-color: red;
+    padding: 10px;
+    float: right
+}
+.fea h1{
+    text-align: left;
+}
+.fea h2{
+    
+}
+
+.high {
+    padding: 40px;
+    padding-right: 208px;
+    background-color: azure;
+    float: left;
+}
+.high h2{
+    text-align: left;
+    color: black;
+}
+
+.imgi {
+    float: left;
+    display: inline-block;
+}
+
+.hist {
+    float: right;
+    padding: 20px;
+    text-align: left;
+}
+
+.log {
+    float: right;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+.di {
+    color: black;
+    border: solid #777 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
